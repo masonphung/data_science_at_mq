@@ -1,0 +1,35 @@
+["2010-2019", "Bruno Mars"]	59539
+["2010-2019", "Rihanna"]	56447
+["2010-2019", "Katy Perry"]	54766
+["2000-2009", "The Black Eyed Peas"]	151896
+["2000-2009", "Eminem"]	142194
+["2000-2009", "Britney Spears"]	129805
+["1990-1999", "Madonna"]	201710
+["1990-1999", "Mariah Carey"]	192422
+["1990-1999", "Whitney Houston"]	112255
+["1980-1989", "Madonna"]	189750
+["1980-1989", "Michael Jackson"]	138437
+["1980-1989", "Phil Collins"]	108500
+["1970-1979", "Abba"]	188888
+["1970-1979", "Bee Gees"]	156231
+["1970-1979", "Elton John"]	118987
+["1960-1969", "The Beatles"]	548721
+["1960-1969", "Elvis Presley"]	256606
+["1960-1969", "The Rolling Stones"]	169581
+["1950-1959", "Elvis Presley"]	193868
+["1950-1959", "Nat King Cole"]	89909
+["1950-1959", "Perry Como"]	78356
+["1940-1949", "Glenn Miller"]	140640
+["1940-1949", "Bing Crosby"]	90965
+["1940-1949", "Vaughn Monroe"]	67821
+["1930-1939", "Bing Crosby"]	69584
+["1930-1939", "Fred Astaire"]	40222
+["1930-1939", "Duke Ellington"]	32737
+["1920-1929", "Al Jolson"]	61537
+["1920-1929", "Paul Whiteman"]	37087
+["1920-1929", "Gene Austin"]	18267
+["1910-1919", "Original Dixieland Jazz Band"]	7897
+["1910-1919", "Sophie Tucker"]	7254
+["1910-1919", "Marion Harris"]	5576
+["1900-1909", "Sousa's Band"]	7097
+["1900-1909", "Fisk University Jubilee Quartet"]	5444
